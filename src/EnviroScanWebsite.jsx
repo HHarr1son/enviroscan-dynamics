@@ -468,28 +468,28 @@ export default function EnviroScanWebsite() {
               <div className="bg-slate-800/50 rounded-xl p-4 flex flex-col">
                 <h4 className="font-semibold text-sm mb-3 text-cyan-400">Product Hardware</h4>
                 <div className="flex-1 flex items-center justify-center">
-                  <img src="/product-1.jpg" alt="Product Hardware" className="w-full h-full object-contain rounded-lg" style={{maxHeight: '400px'}} />
+                  <img src="product-1.jpg" alt="Product Hardware" className="w-full h-full object-contain rounded-lg" style={{maxHeight: '400px'}} />
                 </div>
               </div>
               <div className="bg-slate-800/50 rounded-xl p-4 flex flex-col">
                 <h4 className="font-semibold text-sm mb-3 text-cyan-400">Sensor Array</h4>
                 <div className="flex-1 flex items-center justify-center">
-                  <img src="/product-2.jpg" alt="Sensor Array" className="w-full h-full object-contain rounded-lg" style={{maxHeight: '400px'}} />
+                  <img src="product-2.jpg" alt="Sensor Array" className="w-full h-full object-contain rounded-lg" style={{maxHeight: '400px'}} />
                 </div>
               </div>
             </div>
             <div className="bg-slate-800/50 rounded-xl p-4 mb-6">
               <h4 className="font-semibold text-sm mb-3 text-cyan-400 text-center">Demo Video</h4>
-              <video src="/product-demo.mp4" className="w-full rounded-lg max-w-4xl mx-auto" controls autoPlay loop muted playsInline />
+              <video src="product-demo.mp4" className="w-full rounded-lg max-w-4xl mx-auto" controls autoPlay loop muted playsInline />
             </div>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-slate-800/50 rounded-xl p-4">
                 <h4 className="font-semibold text-sm mb-3 text-cyan-400">Concentration Surface Animation</h4>
-                <img src="/concentration_surface_animation.gif" alt="Concentration Surface Animation" className="w-full rounded-lg" />
+                <img src="concentration_surface_animation.gif" alt="Concentration Surface Animation" className="w-full rounded-lg" />
               </div>
               <div className="bg-slate-800/50 rounded-xl p-4">
                 <h4 className="font-semibold text-sm mb-3 text-cyan-400">Water Physics Prediction</h4>
-                <img src="/water-physics-prediction.gif" alt="Water Physics Prediction" className="w-full rounded-lg" />
+                <img src="water-physics-prediction.gif" alt="Water Physics Prediction" className="w-full rounded-lg" />
               </div>
             </div>
           </div>
